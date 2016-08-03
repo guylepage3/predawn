@@ -6,7 +6,7 @@
 COLOR KEY
 
 #CF5340 - Red
-#F18260 - Predawn
+#FF00FF - Predawn
 #F49D62 - Orange
 #EDE480 - Yellow
 #92BFBF - Blue
@@ -36,7 +36,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#1B1E21</string>
+				<string>#000000</string>
 
 				<key>caret</key>
 				<string>#FF00FF</string>
@@ -45,7 +45,7 @@ COLOR KEY
 				<string>#F1F1F1</string>
 
 				<key>invisibles</key>
-				<string>#F18260</string>
+				<string>#FF00FF</string>
 
 				<key>lineHighlight</key>
 				<string>#5F1464</string>
@@ -57,19 +57,19 @@ COLOR KEY
 				<string>#5F1464</string>
 
 				<key>findHighlight</key>
-				<string>#F18260</string>
+				<string>#FF00FF</string>
 
 				<key>gutterForeground</key>
 				<string>#4C4C4C</string>
 
 				<key>guide</key>
-				<string>#F1826025</string>
+				<string>#FF00FF25</string>
 
 				<key>activeGuide</key>
-				<string>#F1826050</string>
+				<string>#FF00FF50</string>
 
 				<key>minimapBorder</key>
-				<string>#F1826025</string>
+				<string>#FF00FF25</string>
 			</dict>
 		</dict>
 		<dict>
@@ -530,7 +530,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#F18260</string>
+				<string>#FF00FF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -659,7 +659,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#F18260</string>
+				<string>#FF00FF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -813,7 +813,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#F18260</string>
+				<string>#FF00FF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -824,7 +824,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#F18260</string>
+				<string>#FF00FF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -835,7 +835,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#F18260</string>
+				<string>#FF00FF</string>
 			</dict>
 		</dict>
 		<dict>

@@ -14,13 +14,13 @@
 				<string>#282828</string>
 
 				<key>caret</key>
-				<string>#F18260</string>
+				<string>#FF00FF</string>
 
 				<key>foreground</key>
 				<string>#DDD</string>
 
 				<key>invisibles</key>
-				<string>#F18260</string>
+				<string>#FF00FF</string>
 
 				<key>lineHighlight</key>
 				<string>#252525</string>
@@ -32,19 +32,19 @@
 				<string>#3C3C3C</string>
 
 				<key>findHighlight</key>
-				<string>#F18260</string>
+				<string>#FF00FF</string>
 
 				<key>gutterForeground</key>
 				<string>#4C4C4C</string>
 
 				<key>guide</key>
-				<string>#F1826025</string>
+				<string>#FF00FF25</string>
 
 				<key>activeGuide</key>
-				<string>#F1826050</string>
+				<string>#FF00FF50</string>
 
 				<key>minimapBorder</key>
-				<string>#F1826025</string>
+				<string>#FF00FF25</string>
 			</dict>
 		</dict>
 		<dict>
@@ -66,7 +66,7 @@
         <key>settings</key>
         <dict>
             <key>foreground</key>
-            <string>#F18260</string>
+            <string>#FF00FF</string>
         </dict>
     </dict>
     <dict>
