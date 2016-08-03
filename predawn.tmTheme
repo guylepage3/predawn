@@ -48,7 +48,7 @@ COLOR KEY
 				<string>#FF00FF</string>
 
 				<key>lineHighlight</key>
-				<string>#5F1464</string>
+				<string>#3B0523</string>
 
 				<key>selection</key>
 				<string>#8D0E90</string>
@@ -174,7 +174,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#B4D388</string>
+				<string>#0066FF</string>
 			</dict>
 		</dict>
 
