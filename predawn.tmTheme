@@ -36,10 +36,10 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#000000</string>
+				<string>#1B1E21</string>
 
 				<key>caret</key>
-				<string>#F18260</string>
+				<string>#FF00FF</string>
 
 				<key>foreground</key>
 				<string>#F1F1F1</string>
@@ -48,13 +48,13 @@ COLOR KEY
 				<string>#F18260</string>
 
 				<key>lineHighlight</key>
-				<string>#232323</string>
+				<string>#5F1464</string>
 
 				<key>selection</key>
-				<string>#4C4C4C</string>
+				<string>#8D0E90</string>
 
 				<key>inactiveSelection</key>
-				<string>#3C3C3C</string>
+				<string>#5F1464</string>
 
 				<key>findHighlight</key>
 				<string>#F18260</string>
