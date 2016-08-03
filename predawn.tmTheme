@@ -11,7 +11,7 @@ COLOR KEY
 #EDE480 - Yellow
 #92BFBF - Blue
 #BDDCDC - Light Blue
-#0066FF - Green
+#3B8ADE - Green
 
 #151515 - Black
 #232323 - Grey 9
@@ -174,7 +174,8 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#0066FF</string>
+				<string>#0066FF
+3B8ADE</string>
 			</dict>
 		</dict>
 
@@ -321,7 +322,8 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#0066FF</string>
+				<string>#0066FF
+3B8ADE</string>
 			</dict>
 		</dict>
 		<dict>
@@ -332,7 +334,8 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#0066FF</string>
+				<string>#0066FF
+3B8ADE</string>
 			</dict>
 		</dict>
 		<dict>
@@ -343,7 +346,8 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#0066FF</string>
+				<string>#0066FF
+3B8ADE</string>
 			</dict>
 		</dict>
 		<dict>
@@ -387,7 +391,8 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#0066FF</string>
+				<string>#0066FF
+3B8ADE</string>
 			</dict>
 		</dict>
 		<dict>
@@ -420,7 +425,8 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#0066FF</string>
+				<string>#0066FF
+3B8ADE</string>
 			</dict>
 		</dict>
 		<dict>
@@ -453,7 +459,8 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#0066FF</string>
+				<string>#0066FF
+3B8ADE</string>
 			</dict>
 		</dict>
 		<dict>
@@ -567,7 +574,8 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#0066FF</string>
+				<string>#0066FF
+3B8ADE</string>
 				<key>foreground</key>
 				<string>#92BFBF</string>
 			</dict>
@@ -582,7 +590,8 @@ COLOR KEY
 				<key>background</key>
 				<string>#151515</string>
 				<key>foreground</key>
-				<string>#0066FF</string>
+				<string>#0066FF
+3B8ADE</string>
 			</dict>
 		</dict>
 		<dict>
@@ -615,7 +624,8 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#0066FF</string>
+				<string>#0066FF
+3B8ADE</string>
 			</dict>
 		</dict>
 		<dict>
@@ -791,7 +801,8 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#0066FF</string>
+				<string>#0066FF
+3B8ADE</string>
 			</dict>
 		</dict>
 		<dict>
@@ -802,7 +813,8 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#0066FF</string>
+				<string>#0066FF
+3B8ADE</string>
 			</dict>
 		</dict>
 		<dict>
@@ -846,7 +858,8 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#0066FF</string>
+				<string>#0066FF
+3B8ADE</string>
 			</dict>
 		</dict>
 		<dict>
@@ -868,7 +881,8 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#0066FF</string>
+				<string>#0066FF
+3B8ADE</string>
 			</dict>
 		</dict>
 		<dict>
@@ -901,7 +915,8 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#0066FF</string>
+				<string>#0066FF
+3B8ADE</string>
 			</dict>
 		</dict>
 		<dict>
@@ -934,7 +949,8 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#0066FF</string>
+				<string>#0066FF
+3B8ADE</string>
 			</dict>
 		</dict>
 		<dict>
