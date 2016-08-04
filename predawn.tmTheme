@@ -7,7 +7,7 @@ COLOR KEY
 
 #CF5340 - Red
 #FF00FF - Predawn
-#F572B7 - Light Pink
+#F03B9A - Light Pink
 #ED1486 - Hot Pink
 #3B8ADE - Blue
 
@@ -184,7 +184,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#F572B7</string>
+				<string>#F03B9A</string>
 			</dict>
 		</dict>
 
@@ -242,7 +242,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#F1F1F1</string>
+				<string>#F03B9A</string>
 			</dict>
 		</dict>
 		<dict>
@@ -286,7 +286,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#F572B7</string>
+				<string>#F03B9A</string>
 			</dict>
 		</dict>
 		<dict>
@@ -352,7 +352,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#F572B7</string>
+				<string>#F03B9A</string>
 			</dict>
 		</dict>
 		<dict>
@@ -374,7 +374,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#F572B7</string>
+				<string>#F03B9A</string>
 			</dict>
 		</dict>
 		<dict>
@@ -440,7 +440,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#F1F1F1</string>
+				<string>#F03B9A</string>
 			</dict>
 		</dict>
 		<dict>
@@ -484,7 +484,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#F1F1F1</string>
+				<string>#F03B9A</string>
 			</dict>
 		</dict>
 		<dict>
@@ -679,7 +679,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#F572B7</string>
+				<string>#F03B9A</string>
 			</dict>
 		</dict>
 		<dict>
@@ -723,7 +723,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#F572B7</string>
+				<string>#F03B9A</string>
 			</dict>
 		</dict>
 		<dict>
@@ -778,7 +778,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#F572B7</string>
+				<string>#F03B9A</string>
 			</dict>
 		</dict>
 		<dict>
@@ -888,7 +888,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#F572B7</string>
+				<string>#F03B9A</string>
 			</dict>
 		</dict>
 		<dict>
