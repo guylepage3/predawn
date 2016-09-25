@@ -1,4 +1,4 @@
-# Predawn-electric3
+# Predawn-electric
 
 ### A dark interface and syntax theme for [Sublime Text](https://sublime.wbond.net/packages/Predawn) and [Atom](https://atom.io/packages/predawn-ui).
 
