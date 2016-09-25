@@ -2,7 +2,7 @@
 
 ### A dark interface and syntax theme for [Sublime Text](https://sublime.wbond.net/packages/Predawn) and [Atom](https://atom.io/packages/predawn-ui).
 
-![](http://i.imgur.com/r6B1Exd.png)
+![](https://raw.githubusercontent.com/guylepage3/predawn-electric/master/screenshots/predawn-electric.png)
 
 [View a larger screenshot](http://i.imgur.com/r6B1Exd.png)
 
