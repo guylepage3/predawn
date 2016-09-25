@@ -6,9 +6,9 @@
 COLOR KEY
 
 #CF5340 - Red
-#FF00FF - Predawn
+#FF00FF - Hot Pink
 #F03B9A - Light Pink
-#ED1486 - Hot Pink
+#ED1486 - Predawn Electric
 #0080FF - Blue
 
 #151515 - Black
@@ -34,13 +34,13 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#000000</string>
+				<string>#111111</string>
 
 				<key>caret</key>
 				<string>#FF00FF</string>
 
 				<key>foreground</key>
-				<string>#ED1486</string>
+				<string>#F1F1F1</string>
 
 				<key>invisibles</key>
 				<string>#FF00FF</string>
@@ -64,10 +64,10 @@ COLOR KEY
 				<string>#ED1486</string>
 
 				<key>activeGuide</key>
-				<string>#FF00FF</string>
+				<string>#ED1486</string>
 
 				<key>minimapBorder</key>
-				<string>#FF00FF</string>
+				<string>#ED1486</string>
 			</dict>
 		</dict>
 		<dict>
@@ -78,7 +78,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#777777</string>
+				<string>#999999</string>
 			</dict>
 		</dict>
 		<dict>
@@ -89,7 +89,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#777777</string>
+				<string>#999999</string>
 			</dict>
 		</dict>
     <dict>
@@ -219,7 +219,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f1f1f1</string>
+				<string>#F1F1F1</string>
 			</dict>
 		</dict>
 		<dict>
@@ -517,7 +517,7 @@ COLOR KEY
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#777777</string>
+				<string>#999999</string>
 			</dict>
 		</dict>
 		<dict>
