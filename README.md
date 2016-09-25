@@ -4,7 +4,7 @@
 
 ![](https://raw.githubusercontent.com/guylepage3/predawn-electric/master/screenshots/predawn-electric.png)
 
-[View a larger screenshot](http://i.imgur.com/r6B1Exd.png)
+[View a larger screenshot](https://raw.githubusercontent.com/guylepage3/predawn-electric/master/screenshots/predawn-electric.png)
 
 # All Options and Defaults
 #### See images below for examples
