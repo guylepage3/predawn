@@ -20,7 +20,7 @@
   {
     "class": "tabset_control",
     "settings": ["predawn_tabs_small"],
-    "tab_height": 30
+    "tab_height": 38
   },
   {
     "class": "tabset_control",
@@ -331,7 +331,7 @@
     "layer0.tint": [51, 51, 51],
     "layer0.opacity": 1.0,
     "layer0.draw_center": false,
-    "content_margin": [0, 10, 0, 0]
+    "content_margin": [-5, 15, -15, 0]
   },
   {
     // Sidebar rows
@@ -779,7 +779,7 @@
     // Sidebar tree
     "class": "sidebar_tree",
     "row_padding": [25, 5],
-    "indent": 20,
+    "indent": 10,
     "indent_offset": 0,
     "indent_top_level": false,
     "layer0.tint": [51, 51, 51],
