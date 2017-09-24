@@ -262,7 +262,7 @@
   {
     // Mini Map
     "class": "minimap_control",
-    "viewport_color": [237, 20, 134, 30]
+    "viewport_color": [237, 20, 134, 65]
   },
   {
     // General labels
